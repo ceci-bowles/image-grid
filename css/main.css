@@ -39,7 +39,7 @@ section img:nth-child(5) {
   section img:nth-child(5) {
     display: inline-block;
     float: left;
-    width: 50%
+    width: 50%;
   }
 
   section img:first-child {
@@ -58,17 +58,17 @@ section img:nth-child(5) {
   section img:nth-child(2),
   section img:nth-child(3),
   section img:nth-child(4) {
-    width: 33.333%;
+    width: 33.3333%;
   }
 
 }
 
 @media only screen and (min-width: 60em) {
 
-  section img:first-child{
+  section img:first-child {
     display: inline-block;
     float: left;
-    width: 66.66%;
+    width: 66.6666%;
   }
 
   section img:nth-child(2),
